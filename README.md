@@ -81,7 +81,7 @@ Once you have the command line tools installed you can just simply type this and
 vercel
 ```
 
-Let it do it's thing and you'll get a URL to view it.  You're nearly done there's just two major things to set up so that you can post your form.
+Let it do it's thing and you'll get a URL to view it.  You're nearly done there's just two major things to set up so that you can post your frame.
 
 1. ***Setting up an enviroment variable in Vercel***.  We use the term ``NEXT_PUBLIC_HOST`` and you'll want to set it up by going into your Vercel account and navigating to your project and going to `Settings` > `Environment Variables` >  Then you can scroll down and add one.  Make the key ``NEXT_PUBLIC_HOST`` and the value should be your Vercel URL for your project.
 2. ***Turn off Deployment Authentication*** This is a feature to make your Vercel application only available to you or people you grant access to.  Not a great idea for frames on Farcaster.  Instead you'll want to navigate to your project within Vercel's backend and goto ```Settings``` > ```Deployment Protection``` then turn off the big switch at the top.
