@@ -1,6 +1,6 @@
 # Adventure Frame!
 
-This is a choose your own adventure frame built by @breadcat using `frames.js`
+This is a choose your own adventure frame built by [@breadcat](https://warpcast.com/breadcat) using [`frames.js`](https://framesjs.org/) in collaboration with [@popwonder](https://warpcast.com/popwonder)!  View the original frame: [Adventure by PopWonder](https://warpcast.com/popwonder/0xff5a1960)
 
 Just clone this repo into your computer and get to adventuring!
 
